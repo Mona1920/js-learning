@@ -1,1 +1,1 @@
-console("Mona");
+console.log("Mona");
