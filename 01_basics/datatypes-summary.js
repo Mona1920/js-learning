@@ -41,3 +41,7 @@ This means you do not need to explicitly declare a variable's data type
 (like integer, string, or boolean) when you create it. 
 Instead, the data type is automatically determined by the JavaScript engine at runtime 
 (while the program is running) based on the value currently assigned to it.*/
+
+//.  ========================================
+
+//stack(Primitive), Heap (Non-Primitive)
